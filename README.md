@@ -63,3 +63,39 @@ wrapx.zip
 │
 └── /audit/            # Optional: access logs, chain of custody
     └── accesslog.json
+
+---
+
+## 📣 Engage with WRAPX
+
+WRAPX is ready for collaboration.
+
+- The format is defined (`spec/v0.1.md`)
+- The runtime model is published (`runtime/wrapx-runtime.md`)
+- The CLI interface is documented (`runtime/wrapx-cli.md`)
+- Five core modules are live (`/modules`)
+- Workflow config and metadata examples are included (`/examples`)
+- A Python CLI prototype is in place (`wrapx-runtime.py`)
+
+This is a working, open, modular foundation for metadata-governed files — built for disconnected environments, zero-trust enforcement, and coalition workflows.
+
+If you’re building secure content pipelines, data-centric platforms, or trust-layered workflows at scale — WRAPX is designed for you.
+
+---
+
+## 🤝 Ways to Contribute
+
+- Review the spec and suggest improvements
+- Implement one of the core modules
+- Extend the CLI runtime
+- Integrate WRAPX into your own systems
+- Use it in tender responses, platform pilots, or secure workflow demos
+
+---
+
+## 📫 Contact
+
+If you're in the data governance, DevSecOps, or platform integration space — we'd love your thoughts.
+
+- GitHub: [https://github.com/beroccaboy/wrapx-spec](https://github.com/beroccaboy/wrapx-spec)
+- Contributions, forks, and feedback are all welcome.
