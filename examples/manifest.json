@@ -1,0 +1,11 @@
+{
+  "wrapx_version": "0.1",
+  "file_name": "report.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "classification": "SECRET-AUS",
+  "owner": "example@domain.com",
+  "created_at": "2025-05-06T12:00:00Z",
+  "expiry": "2025-06-06T00:00:00Z",
+  "tags": ["HADR", "ISR"],
+  "releasable_to": ["AUS", "NZL"]
+}
