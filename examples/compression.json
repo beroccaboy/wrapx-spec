@@ -1,0 +1,7 @@
+{
+  "method": "zstd",
+  "level": 5,
+  "original_size": 8192,
+  "compressed_size": 2431,
+  "timestamp": "2025-05-07T23:40:00Z"
+}
