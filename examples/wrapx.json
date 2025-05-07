@@ -1,0 +1,29 @@
+{
+  "wrapx_version": "0.1",
+  "workflow_profile": "tactical_edge_writer",
+  "modules": [
+    {
+      "name": "mod.encrypt",
+      "trigger": "on_save",
+      "params": {
+        "algorithm": "AES-256-GCM",
+        "key_source": "local_keystore"
+      }
+    },
+    {
+      "name": "mod.audit",
+      "trigger": "on_open",
+      "params": {
+        "log_to": "/audit/accesslog.json"
+      }
+    },
+    {
+      "name": "mod.hash",
+      "trigger": "on_close",
+      "params": {
+        "digest": "SHA-512"
+      }
+    }
+  ],
+  "fallback_policy": "allow_open_no_modules"
+}
