@@ -1,0 +1,9 @@
+{
+    "event": "on_open",
+    "timestamp": "2025-05-07T22:47:00Z",
+    "user": "byron@domain",
+    "hostname": "tac-node-04",
+    "payload_hash": "a2f3d5cbe9aefc01976c291f4d2e48aa70e5ec96cc2c9c8b1b18e38e3bfa1f53",
+    "metadata_version": "1.1"
+  }
+  
