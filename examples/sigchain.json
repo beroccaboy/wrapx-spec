@@ -1,0 +1,16 @@
+[
+  {
+    "target": "/meta/manifest.json",
+    "digest": "6f47a4...",
+    "signature": "a83f22...",
+    "timestamp": "2025-05-07T23:10:00Z",
+    "previous": null
+  },
+  {
+    "target": "/audit/accesslog.json",
+    "digest": "b734e2...",
+    "signature": "ce122a...",
+    "timestamp": "2025-05-07T23:15:00Z",
+    "previous": "a83f22..."
+  }
+]
